@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClientsListViewApp</string>
+    <string name="surname">Surname</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="add_client">Add Client</string>
+    <string name="save">Save</string>
+</resources>
